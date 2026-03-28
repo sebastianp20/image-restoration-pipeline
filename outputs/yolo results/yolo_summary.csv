@@ -1,0 +1,3 @@
+image_type,n_boxes,avg_conf
+blurred,18,0.5368059277534485
+sharp,20,0.523231565952301
