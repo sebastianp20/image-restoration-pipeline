@@ -1,0 +1,6 @@
+,n_boxes,n_boxes,n_boxes,avg_conf,avg_conf,avg_conf
+condition,blurred,deblurred,sharp,blurred,deblurred,sharp
+example,,,,,,
+medium_blur,12.0,14.0,14.0,0.6723218560218811,0.6401534080505371,0.6222368478775024
+mild_blur,2.0,1.0,1.0,0.4164643883705139,0.5893625617027283,0.4939620494842529
+severe_blur,0.0,0.0,0.0,0.0,0.0,0.0

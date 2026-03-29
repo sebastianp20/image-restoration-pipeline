@@ -1,0 +1,10 @@
+n_boxes,avg_conf,save_dir,condition,example
+2,0.4164643883705139,/content/yolo_task3/mild_blur_blurred3,blurred,mild_blur
+1,0.5893625617027283,/content/yolo_task3/mild_blur_deblurred2,deblurred,mild_blur
+1,0.49396204948425293,/content/yolo_task3/mild_blur_sharp2,sharp,mild_blur
+12,0.6723218560218811,/content/yolo_task3/medium_blur_blurred2,blurred,medium_blur
+14,0.6401534080505371,/content/yolo_task3/medium_blur_deblurred2,deblurred,medium_blur
+14,0.6222368478775024,/content/yolo_task3/medium_blur_sharp2,sharp,medium_blur
+0,0.0,/content/yolo_task3/severe_blur_blurred2,blurred,severe_blur
+0,0.0,/content/yolo_task3/severe_blur_deblurred2,deblurred,severe_blur
+0,0.0,/content/yolo_task3/severe_blur_sharp2,sharp,severe_blur

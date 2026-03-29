@@ -22,3 +22,9 @@ Sharp: 20 boxes, avg conf 0.523
 **Ethical relection:** Code reviewed and understood. Results match expected blur degradation pattern
 **Comments** Analysis on deblurred Images is missing
 
+Entry 4 03/29/2026
+**Tool:** Perplexity AI
+Prompt:Task 3 YOLOv8 on 3 blur levels (mild/medium/severe)
+**Output:** Complete analysis pipeline, pivot tables, summary stats.
+**Results:** Medium blur: +2 boxes detected after deblurring. Severe blur: complete failure.
+**Ethical note:** Results independently verified. Classical deblurring shows detection gains despite PSNR loss.
