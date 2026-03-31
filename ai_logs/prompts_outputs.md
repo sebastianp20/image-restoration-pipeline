@@ -28,3 +28,11 @@ Prompt:Task 3 YOLOv8 on 3 blur levels (mild/medium/severe)
 **Output:** Complete analysis pipeline, pivot tables, summary stats.
 **Results:** Medium blur: +2 boxes detected after deblurring. Severe blur: complete failure.
 **Ethical note:** Results independently verified. Classical deblurring shows detection gains despite PSNR loss.
+
+Entry 5  03/31/2026
+**Tool:** Perplexity AI
+Prompt:Task 4 dataset prep with CocoBlur + COCO annotations.
+**Output:** Annotation remapping pipeline, 200-image train/val/test split, YOLO conversion.
+**Results:** 120 train/40 val/40 test images, 1319 total boxes, cocoblur_task4.yaml ready.
+**Status:** YOLOv8 training in progress (25 epochs, CPU)
+**Ethical note:** Results analyzed and confirmed. double checked with coco dataset.
